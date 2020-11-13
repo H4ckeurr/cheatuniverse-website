@@ -12,11 +12,10 @@
       "BowAimbot": "Automatically aim nearest enemy when you're charging your bow",
       "EggAura": "Automatically destroy eggs",
       "FastBow": "Shot without charging your bow",
-      "InvCleaner": "Clear your inventory",
       "KillAura": "Attack each player simultaneous or one by one depending of your configuration around you",
       "Regen": "Regenerate your life faster",
       "Triggerbot": "Automatically attack players which are in your viewfinder",
-      "Velocity": "You can't be push by anyone"
+      "Velocity": "You can't be pushed by anyone"
     }
   },
   "Misc": {
@@ -50,6 +49,7 @@
     "label": "Player",
     "modules": {
       "Blink": "Simulate lags. Other people see you lagging",
+      "InvCleaner": "Clean your inventory by drop useless items",
       "ChestAura": "Automatically open chests around you",
       "ChestStealer": "Automatically pick items in chest",
       "FastEat": "Eat your food faster",
